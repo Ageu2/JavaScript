@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+  }
+
+.template{
+  background-color: bisque;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.begin {
+    background-color: rgba(255, 166, 49, 0.9);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.inputSymbol {
+  text-align: center;
+}
+
+#taskList{
+  border-style: ridge;
+  
+}
